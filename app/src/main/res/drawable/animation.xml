@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item android:drawable="@drawable/swing1" android:duration="110"/>
+    <item android:drawable="@drawable/swing2" android:duration="110"/>
+    <item android:drawable="@drawable/swing3" android:duration="110"/>
+    <item android:drawable="@drawable/swing4" android:duration="110"/>
+    <item android:drawable="@drawable/swing5" android:duration="110"/>
+    <item android:drawable="@drawable/swing6" android:duration="110"/>
+    <item android:drawable="@drawable/swing7" android:duration="110"/>
+    <item android:drawable="@drawable/swing8" android:duration="110"/>
+    <item android:drawable="@drawable/swing9" android:duration="110"/>
+    <item android:drawable="@drawable/swing10" android:duration="110"/>
+    <item android:drawable="@drawable/swing11" android:duration="110"/>
+    <item android:drawable="@drawable/swing12" android:duration="110"/>
+    <item android:drawable="@drawable/swing13" android:duration="110"/>
+    <item android:drawable="@drawable/swing14" android:duration="110"/>
+</animation-list>

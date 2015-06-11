@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item android:drawable="@drawable/bird1" android:duration="110"/>
+    <item android:drawable="@drawable/bird2" android:duration="110"/>
+    <item android:drawable="@drawable/bird3" android:duration="110"/>
+    <item android:drawable="@drawable/bird4" android:duration="110"/>
+    <item android:drawable="@drawable/bird5" android:duration="110"/>
+    <item android:drawable="@drawable/bird6" android:duration="110"/>
+    <item android:drawable="@drawable/bird7" android:duration="110"/>
+
+</animation-list>

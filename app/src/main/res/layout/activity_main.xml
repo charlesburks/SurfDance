@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imgSun"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="245dp" />
+
+    <ImageView
+        android:id="@+id/imgBird"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"/>
+
+    <ImageView
+        android:id="@+id/imgBeach"
+        android:src="@drawable/beach"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:minHeight="150px"
+        android:minWidth="300px"
+        android:layout_marginTop="225dp"/>
+
+
+    <ImageView
+        android:id="@+id/imgSwing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:minHeight="150px"
+        android:minWidth="300px"
+        android:layout_marginBottom="54dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
